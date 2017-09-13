@@ -1,0 +1,8 @@
+﻿Group: Misc
+FriendlyName: Test Admin Tab
+SystemName: Misc.TestAdminTab
+Version: 1.0
+SupportedVersions: 4.00
+Author: GrandNode Team
+DisplayOrder: 1
+FileName: Grand.Plugin.Misc.TestAdminTab.dll
